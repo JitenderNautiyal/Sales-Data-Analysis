@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,product,category,quantity,price,region,payment_method
+1,2024-01-05,C101,Laptop,Electronics,1,60000,North,Card
+2,2024-01-07,C102,Mobile,Electronics,2,20000,South,UPI
+3,2024-02-10,C103,Shoes,Fashion,3,3000,West,COD
+4,2024-02-15,C104,T-shirt,Fashion,5,1000,East,Card
+5,2024-03-01,C105,Headphones,Electronics,2,2500,North,UPI
